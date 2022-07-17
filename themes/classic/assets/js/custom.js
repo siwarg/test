@@ -1,0 +1,1 @@
+/*$('.slick-list').before('<div class="draggable"> voilà mon texte avant dans la catégorie</div>');*/
